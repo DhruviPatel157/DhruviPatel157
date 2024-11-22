@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Data Science, Data Analytics**
 
-- 📫 How to reach me **dpate158@stevens.edu**
+- 📫 How to reach me **dhruviyrp157@gmail.com**
 
 - 📄 Know about my experiences [https://dhruvipatel157.github.io/](https://dhruvipatel157.github.io/)
 
