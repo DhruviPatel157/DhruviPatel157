@@ -20,8 +20,7 @@
  <h3 align="middle">💻 GitHub Profile Stats</h3>
 <div align="center">
   <br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=DhruviPatel157&theme=highcontrast"/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DhruviPatel157's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/? 
-        username=DhruviPatel157&langs_count=8&layout=compact&theme=vision-friendly-dark&border=true" height="192px"/></a>
+       <img src="https://github-readme-streak-stats.herokuapp.com?user=DhruviPatel157&theme=highcontrast"/> <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jkanishkha0305's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruviPatel157&langs_count=8&layout=compact&theme=vision-friendly-dark&border=true" height="192px"/></a>
   <br/>
 </div>
+  
