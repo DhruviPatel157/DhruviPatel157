@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Developer | Data Scientist | ML Enthusiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DhruviPatel157&label=Profile%20views&color=0e75b6&style=flat" alt="DhruviPatel157" /> </p>
 
-- 🔭 I’m currently working on **AI/ML Project**
+- 🔭 I’m currently working on **AI/ML Project**                
 
 - 🌱 I’m currently learning **LLM, AI Agents, RAG**
 
