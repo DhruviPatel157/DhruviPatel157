@@ -28,3 +28,5 @@
  <img src="https://github-readme-streak-stats.herokuapp.com?user=DhruviPatel157&theme=highcontrast"/>
   <br/>
 </div>
+<img width="2440" height="1060" alt="image" src="https://github.com/user-attachments/assets/d2730c89-5328-49c4-aac2-22f784748c8e" />
+
